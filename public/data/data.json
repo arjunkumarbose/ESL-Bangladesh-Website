@@ -1,0 +1,223 @@
+[
+  {
+    "id": 1,
+    "eventPicture": "https://i.ibb.co/HdC1HcB/FNB-Zv-JWYAYJt-4.jpg",
+    "eventName": "ESL Major",
+    "eventCasters": 4,
+    "eventPricePool": 2000,
+    "eventLocation": "ESL Major is a world-renowned esports event organizer that has won numerous awards for hosting top-tier gaming competitions. Their passion for esports started at a young age, and they have been perfecting their craft ever since.",
+    "eventDetails": [
+      {
+        "eventGame": "Counter-Strike: Global Offensive",
+        "eventTags": ["professional teams", "maps", "weapons", "strategies", "spectators"],
+        "eventArena": "online and LAN",
+        "rating": 4.5,
+        "id": 1,
+        "eventImg": "https://i.ibb.co/brp6cNt/576756.jpg"
+      },
+      {
+        "eventGame": "League of Legends",
+        "eventTags": ["top-tier teams", "champions", "tactics", "crowds", "prizes"],
+        "eventArena": "online and live",
+        "rating": 4.2,
+        "id": 2,
+        "eventImg": "https://i.ibb.co/JxXt9sB/EGS-Leagueof-Legends-Riot-Games-S1-2560x1440-2935d0a3e332decb8e727fe56789b6ab.jpg"
+      },
+      {
+        "eventGame": "Dota 2 International",
+        "eventTags": ["pro players", "heroes", "strategies", "audience", "grand prize"],
+        "eventArena": "online and stadium",
+        "rating": 4.8,
+        "id": 3,
+        "eventImg": "https://i.ibb.co/KwNr2h0/dota-2-wallpaper-by-commander34-d6csdrt-pre.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "eventPicture": "https://i.ibb.co/MsGbhNg/Liquid-win-ESL-S9.jpg",
+    "eventName": "Esports Revolution",
+    "eventCasters": 5,
+    "eventPricePool": 3000,
+    "eventLocation": "Esports Revolution is a rising star in the esports event organizing world. Their unique style of hosting gaming competitions blends traditional and modern techniques to create events that are both thrilling and visually stunning.",
+    "eventDetails": [
+      {
+        "eventGame": "Valorant Championship",
+        "eventTags": ["professional teams", "agents", "tactics", "viewers", "awards"],
+        "eventArena": "online and LAN",
+        "rating": 4.3,
+        "id": 1,
+        "eventImg": "https://i.ibb.co/JkpxqbY/1282982.jpg"
+      },
+      {
+        "eventGame": "Rocket League Showdown",
+        "eventTags": ["rocket-powered cars", "goals", "strategies", "fans", "cash prizes"],
+        "eventArena": "online and live",
+        "rating": 4.0,
+        "id": 2,
+        "eventImg": "https://i.ibb.co/rwJ5rhy/863543.png"
+      },
+      {
+        "eventGame": "Fortnite World Cup",
+        "eventTags": ["top players", "battles", "builds", "spectators", "millions in winnings"],
+        "eventArena": "online and stadium",
+        "rating": 3.8,
+        "id": 3,
+        "eventImg": "https://i.ibb.co/T1DzvgW/fortnite-season-4-nexus-war-marvel-superheroes-crossover-3840x2160-2642.jpg"
+      },
+      {
+        "eventGame": "Overwatch League",
+        "eventTags": ["pro teams", "heroes", "strategies", "audience", "seasonal playoffs"],
+        "eventArena": "online and live",
+        "rating": 4.5,
+        "id": 4,
+        "eventImg": "https://i.ibb.co/q94m1GK/702620.png"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "eventPicture": "https://i.ibb.co/PtrTYCW/F7-X8o-Za-WYAAi5e-F.jpg",
+    "eventName": "Blast TV Major",
+    "eventCasters": 6,
+    "eventPricePool": 4000,
+    "eventLocation": "Blast TV major is a classically trained esports event organizer that specializes in hosting professional gaming tournaments. Their attention to detail and dedication to quality has earned them a loyal following among esports enthusiasts.",
+    "eventDetails": [
+      {
+        "eventGame": "Rainbow Six Siege Invitational",
+        "eventTags": ["pro teams", "operators", "strategies", "viewers", "prize pool"],
+        "eventArena": "online and LAN",
+        "rating": 4.2,
+        "id": 1,
+        "eventImg": "https://i.ibb.co/gMSR9Hz/521305.png"
+      },
+      {
+        "eventGame": "Apex Legends Championship",
+        "eventTags": ["apex legends", "legends", "tactics", "live audience", "cash prizes"],
+        "eventArena": "online and live",
+        "rating": 3.8,
+        "id": 2,
+        "eventImg": "https://i.ibb.co/hLFXwZM/1325458.jpg"
+      },
+      {
+        "eventGame": "FIFA World Cup 2024",
+        "eventTags": ["pro players", "teams", "strategies", "global audience", "tournament prize"],
+        "eventArena": "online and stadium",
+        "rating": 4.6,
+        "id": 3,
+        "eventImg": "https://i.ibb.co/whmbBW2/EA-Sports-FC-release-date-confirmed-Pre-order-FIFA-24.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "eventPicture": "https://i.ibb.co/zsMbpZn/F7-Wij-BNWQAAIw4-S.jpg",
+    "eventName": "PGL Pro Circuit",
+    "eventCasters": 8,
+    "eventPricePool": 5000,
+    "eventLocation": "PGL Pro is a classically trained esports event organizer that specializes in hosting professional gaming tournaments. Their attention to detail and dedication to quality has earned them a loyal following among esports enthusiasts.",
+    "eventDetails": [
+      {
+        "eventGame": "Rainbow Six Siege",
+        "eventTags": ["pro teams", "operators", "strategies", "viewers", "prize pool"],
+        "eventArena": "online and LAN",
+        "rating": 4.2,
+        "id": 1,
+        "eventImg": "https://i.ibb.co/gMSR9Hz/521305.png"
+      },
+      {
+        "eventGame": "Apex Legends Championship",
+        "eventTags": ["apex legends", "legends", "tactics", "live audience", "cash prizes"],
+        "eventArena": "online and live",
+        "rating": 3.8,
+        "id": 2,
+        "eventImg": "https://i.ibb.co/hLFXwZM/1325458.jpg"
+      },
+      {
+        "eventGame": "FIFA World Cup 2024",
+        "eventTags": ["pro players", "teams", "strategies", "global audience", "tournament prize"],
+        "eventArena": "online and stadium",
+        "rating": 4.6,
+        "id": 3,
+        "eventImg": "https://i.ibb.co/whmbBW2/EA-Sports-FC-release-date-confirmed-Pre-order-FIFA-24.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "eventPicture": "https://i.ibb.co/WvFzWCw/F7-S-go3-WMAE7w-Wk.jpg",
+    "eventName": "IEM Katowice",
+    "eventCasters": 8,
+    "eventPricePool": 10000,
+    "eventLocation": "Intel extreme masters is a classically trained esports event organizer that specializes in hosting professional gaming tournaments. Their attention to detail and dedication to quality has earned them a loyal following among esports enthusiasts.",
+    "eventDetails": [
+      {
+        "eventGame": "Rainbow Six Siege Invitational",
+        "eventTags": ["pro teams", "operators", "strategies", "viewers", "prize pool"],
+        "eventArena": "online and LAN",
+        "rating": 4.2,
+        "id": 1,
+        "eventImg": "https://i.ibb.co/gMSR9Hz/521305.png"
+      },
+      {
+        "eventGame": "Apex Legends Championship",
+        "eventTags": ["apex legends", "legends", "tactics", "live audience", "cash prizes"],
+        "eventArena": "online and live",
+        "rating": 3.8,
+        "id": 2,
+        "eventImg": "https://i.ibb.co/hLFXwZM/1325458.jpg"
+      },
+      {
+        "eventGame": "FIFA World Cup 2024",
+        "eventTags": ["pro players", "teams", "strategies", "global audience", "tournament prize"],
+        "eventArena": "online and stadium",
+        "rating": 4.6,
+        "id": 3,
+        "eventImg": "https://i.ibb.co/whmbBW2/EA-Sports-FC-release-date-confirmed-Pre-order-FIFA-24.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "eventPicture": "https://i.ibb.co/GJvjhjc/F7-St-Rel-Xw-AA97-Bk.jpg",
+    "eventName": "Nvdia GeForce Cup",
+    "eventCasters": 10,
+    "eventPricePool": 22000,
+    "eventLocation": "Nvdia is a classically trained esports event organizer that specializes in hosting professional gaming tournaments. Their attention to detail and dedication to quality has earned them a loyal following among esports enthusiasts.",
+    "eventDetails": [
+      {
+        "eventGame": "Rainbow Six Siege Invitational",
+        "eventTags": ["pro teams", "operators", "strategies", "viewers", "prize pool"],
+        "eventArena": "online and LAN",
+        "rating": 4.2,
+        "id": 1,
+        "eventImg": "https://i.ibb.co/gMSR9Hz/521305.png"
+      },
+      {
+        "eventGame": "Apex Legends Championship",
+        "eventTags": ["apex legends", "legends", "tactics", "live audience", "cash prizes"],
+        "eventArena": "online and live",
+        "rating": 3.8,
+        "id": 2,
+        "eventImg": "https://i.ibb.co/hLFXwZM/1325458.jpg"
+      },
+      {
+        "eventGame": "FIFA World Cup eSports Edition",
+        "eventTags": ["pro players", "teams", "strategies", "global audience", "tournament prize"],
+        "eventArena": "online and stadium",
+        "rating": 4.6,
+        "id": 3,
+        "eventImg": "https://i.ibb.co/whmbBW2/EA-Sports-FC-release-date-confirmed-Pre-order-FIFA-24.jpg"
+      },
+      {
+        "eventGame": "PUBG Global Championship",
+        "eventTags": ["pro players", "teams", "strategies", "global audience", "tournament prize"],
+        "eventArena": "Online",
+        "rating": 4.8,
+        "id": 4,
+        "eventImg": "https://i.ibb.co/fnmgMkN/854917.jpg"
+      }
+    ]
+  }
+
+]
